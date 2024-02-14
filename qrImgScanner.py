@@ -37,7 +37,7 @@ class QRAnalyzer:
         self.directory_path_label.pack(side=tk.LEFT)
 
         self.PreviewQR = tk.Label(self.Reader)
-        # placeholder = Image.open("C:\\Users\George\Desktop\PROJECTS\QRImgScanner\placeholder.png")
+        # placeholder = Image.open("<Paste the location of placeholder.png here>")
         # ph = ImageTk.PhotoImage(placeholder)
         # self.PreviewQR.config(image=ph)
         # self.PreviewQR.image = ph
